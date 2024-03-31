@@ -1,2 +1,3 @@
-# nlp_practice
-자연어를 다시 공부 해보자
+### NLP/CV/HuggingFace
+
+여러가지 딥러닝 모델들을 갈고닦자
